@@ -1,3 +1,5 @@
+library(primes)
+
 goldbach_list <- function(n) {
   i <- 1
   primes_list <- generate_primes(2, n)
