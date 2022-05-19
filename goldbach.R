@@ -60,5 +60,3 @@ complete <- function(nmax) {
   print_gb(nmax)
   gb_partition_plot(nmax)
 }
-
-temp <- comb_count(4)
