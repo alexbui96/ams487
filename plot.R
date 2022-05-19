@@ -1,4 +1,4 @@
-data <- read.csv("par.csv")
+data <- read.csv("partitions-100000.csv")
 
 data$r <- as.factor(data$r)
 
